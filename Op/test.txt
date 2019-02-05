@@ -169,7 +169,7 @@ en
 uk
 fr
 be
-uk
+us
 fr
 sv
 ru
